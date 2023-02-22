@@ -1,5 +1,5 @@
 // FUNÇÕES DE BOTÕES
-//  $("#btn-loader").addClass('d-none'); 
+  $("#btn-loader").addClass('d-none'); 
 
    // CRIA USUÁRIO
    $(".btn-enviar").on("click",function()
