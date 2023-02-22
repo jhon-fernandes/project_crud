@@ -1,7 +1,7 @@
 <h1> Sistema CRUD </h1>
 <p> É um software criado com a linguagem PHP para fazer a gestão de pessoas. </p>
 
-<ul> Crud
+<ul> CRUD
     <li> Create - Cadastrar </li>
     <li> Read   - Listar / Ler </li>
     <li> Update - Atualizar </li>
