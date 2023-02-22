@@ -1,0 +1,69 @@
+.btn-loader 
+{
+    width: 70px;
+}
+
+.d-none
+{
+    display: none;
+    transition: 0.2 all;
+}
+
+.d-block 
+{
+    display: block;
+    transition: 0.2 all;
+}
+
+table 
+{
+    margin-top: 10px;
+}
+
+span 
+{
+    font-weight: 600;
+}
+
+input 
+{
+    margin-top: 5px;
+}
+
+.center 
+{
+    text-align: center;
+}
+
+.tot-registers
+{
+    margin-top: 5px;
+}
+
+.img-tot-registers
+{
+    margin-top: -2px;
+    margin-left: 5px;
+}
+
+.space-btn
+{
+    margin-left: 10px;
+}
+
+/* -- NOTIFICAÇÕES --*/
+.msg
+{
+    top: 0;
+    right: 0;
+    z-index: 9999;
+    transform: translateZ(9999px); 
+    position: fixed;
+    padding: 4px;
+    width: 320px;
+    box-sizing: border-box;
+    color: #fff;
+    animation-delay: 3s;
+    width: 320px;
+    max-width: 90%;
+}
